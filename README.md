@@ -2,12 +2,12 @@
 
 $yarn tsc --init
 
-## change tsconfig target:"es2017" - porque o node não entende algumas coisas das versões mais recentes, e
+## change tsconfig target:"es2017" - porque o node não entende algumas coisas das versões mais recentes
 
 
 ## reload automático
-$ yarn add ts-node-dev -D 
-$ yarn 
+- $ yarn add ts-node-dev -D 
+- $ yarn 
 
 
 ## lib ultilizadas
