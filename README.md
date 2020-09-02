@@ -24,3 +24,13 @@ $yarn tsc --init
   - criar aula
   - listar aulas 
    - filtrar por: matéria, dia da semana, e horário
+
+
+   ## how to run app
+   $ yarn start 
+
+   ## migrations 
+   $ yarn knex:migrate
+
+   ## migrate rollback 
+   $ yarn knex:migrate:rollback
